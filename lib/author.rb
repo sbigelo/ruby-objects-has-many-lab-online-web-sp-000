@@ -20,3 +20,5 @@ class Author
 
 end
 
+ song = Song.new(song_name)
+    add_song(song)
